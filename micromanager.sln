@@ -548,6 +548,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NikonAZ100SDK", "SecretDevi
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "EnderscopeStage", "DeviceAdapters\EnderscopeStage\EnderscopeStage.vcxproj", "{2E5B103B-0D6F-4D73-9309-0ECB807A5154}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "EnderscopeStage", "DeviceAdapters\EnderscopeStage\EnderscopeStage.vcxproj", "{2E5B103B-0D6F-4D73-9309-0ECB807A5154}"
+EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CCS100", "DeviceAdapters\CCS100\CCS100.vcxproj", "{C5BC680E-C7AD-45E3-ABFF-77AD3E68F172}"
 EndProject
 Global
@@ -1644,6 +1646,10 @@ Global
 		{F3A2D5B7-8C91-4E6A-B4D0-7E2F1A9C3D5E}.Debug|x64.Build.0 = Debug|x64
 		{F3A2D5B7-8C91-4E6A-B4D0-7E2F1A9C3D5E}.Release|x64.ActiveCfg = Release|x64
 		{F3A2D5B7-8C91-4E6A-B4D0-7E2F1A9C3D5E}.Release|x64.Build.0 = Release|x64
+		{2E5B103B-0D6F-4D73-9309-0ECB807A5154}.Debug|x64.ActiveCfg = Debug|x64
+		{2E5B103B-0D6F-4D73-9309-0ECB807A5154}.Debug|x64.Build.0 = Debug|x64
+		{2E5B103B-0D6F-4D73-9309-0ECB807A5154}.Release|x64.ActiveCfg = Release|x64
+		{2E5B103B-0D6F-4D73-9309-0ECB807A5154}.Release|x64.Build.0 = Release|x64
 		{2E5B103B-0D6F-4D73-9309-0ECB807A5154}.Debug|x64.ActiveCfg = Debug|x64
 		{2E5B103B-0D6F-4D73-9309-0ECB807A5154}.Debug|x64.Build.0 = Debug|x64
 		{2E5B103B-0D6F-4D73-9309-0ECB807A5154}.Release|x64.ActiveCfg = Release|x64
