@@ -1,6 +1,6 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.13.35919.96
+# Visual Studio Version 18
+VisualStudioVersion = 18.10.12201.205 stable
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MMCore", "MMCore\MMCore.vcxproj", "{36571628-728C-4ACD-A47F-503BA91C5D43}"
 EndProject
@@ -545,6 +545,10 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3Z_Optics", "DeviceAdapters\3Z_Optics\3Z_Optics.vcxproj", "{ED7A161C-FDB3-445D-9B01-3B662280D2EF}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NikonAZ100SDK", "SecretDeviceAdapters\NikonAZ100SDK\NikonAZ100SDK.vcxproj", "{F3A2D5B7-8C91-4E6A-B4D0-7E2F1A9C3D5E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "EnderscopeStage", "DeviceAdapters\EnderscopeStage\EnderscopeStage.vcxproj", "{2E5B103B-0D6F-4D73-9309-0ECB807A5154}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CCS100", "DeviceAdapters\CCS100\CCS100.vcxproj", "{C5BC680E-C7AD-45E3-ABFF-77AD3E68F172}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -1640,6 +1644,14 @@ Global
 		{F3A2D5B7-8C91-4E6A-B4D0-7E2F1A9C3D5E}.Debug|x64.Build.0 = Debug|x64
 		{F3A2D5B7-8C91-4E6A-B4D0-7E2F1A9C3D5E}.Release|x64.ActiveCfg = Release|x64
 		{F3A2D5B7-8C91-4E6A-B4D0-7E2F1A9C3D5E}.Release|x64.Build.0 = Release|x64
+		{2E5B103B-0D6F-4D73-9309-0ECB807A5154}.Debug|x64.ActiveCfg = Debug|x64
+		{2E5B103B-0D6F-4D73-9309-0ECB807A5154}.Debug|x64.Build.0 = Debug|x64
+		{2E5B103B-0D6F-4D73-9309-0ECB807A5154}.Release|x64.ActiveCfg = Release|x64
+		{2E5B103B-0D6F-4D73-9309-0ECB807A5154}.Release|x64.Build.0 = Release|x64
+		{C5BC680E-C7AD-45E3-ABFF-77AD3E68F172}.Debug|x64.ActiveCfg = Debug|x64
+		{C5BC680E-C7AD-45E3-ABFF-77AD3E68F172}.Debug|x64.Build.0 = Debug|x64
+		{C5BC680E-C7AD-45E3-ABFF-77AD3E68F172}.Release|x64.ActiveCfg = Release|x64
+		{C5BC680E-C7AD-45E3-ABFF-77AD3E68F172}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
